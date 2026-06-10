@@ -1,11 +1,11 @@
-# 👋 Привет, я [Твоё Имя]!
+# 👋 Привет, я Клепиков Александр!
 
 **Студент ОмГУПС | Искусственный интеллект и киберфизические системы**  
 **Data Science • Machine Learning • Reinforcement Learning**
 
-![Profile Views](https://komarev.com/ghpvc/?username=твой-username&color=0e75b6&style=for-the-badge&label=Просмотры)  
-[![VK](https://img.shields.io/badge/-VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_профиль)  
-[![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+![Profile Views](https://komarev.com/ghpvc/?username=sguschonka&color=0e75b6&style=for-the-badge&label=Просмотры)  
+[![Email](sklepikov2007@yandex.ru)  
+[![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@san2anch)
 
 ---
 
