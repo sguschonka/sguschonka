@@ -4,7 +4,7 @@
 **Data Science • Machine Learning • Reinforcement Learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sguschonka&color=0e75b6&style=for-the-badge&label=Просмотры)  
-[![Email](mailto:sklepikov2007@yandex.ru) 
+[sklepikov2007@yandex.ru](mailto:sklepikov2007@yandex.ru) 
 [![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@san2anch)
 
 ---
