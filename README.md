@@ -50,9 +50,9 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/300a99fe-7238-4fe1-a0d0-02831fc773e8" alt="Confusion Matrix" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d9ba6502-41d0-43c8-9361-2a6c98105978" alt="Funny Bot" />
-  <img alt="Send Message" src="https://github.com/user-attachments/assets/d5a0d169-c18f-4173-b62f-a4c58b156ffd" />
-  <img alt="Angry Bot" src="https://github.com/user-attachments/assets/66e1738a-1396-4bb2-a4c7-3983878d8fdd" />
+  <img src="https://github.com/user-attachments/assets/d9ba6502-41d0-43c8-9361-2a6c98105978" alt="Funny Bot" width="45%" />
+  <img alt="Send Message" src="https://github.com/user-attachments/assets/d5a0d169-c18f-4173-b62f-a4c58b156ffd" width="45%" />
+  <img alt="Angry Bot" src="https://github.com/user-attachments/assets/66e1738a-1396-4bb2-a4c7-3983878d8fdd" width="45%" />
   <img src="https://github.com/user-attachments/assets/68cc3cf9-d360-431b-887a-ee2030396d47" alt="Toxicity Detection Result" width="45%" />
 </div>
 
