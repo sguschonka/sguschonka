@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alexander Klepikov (sguschonka)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Reinforcement+Learning+Enthusiast;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Reinforcement+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 **Student at OmGUPS | Artificial Intelligence and Cyber-Physical Systems**  
