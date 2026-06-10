@@ -51,8 +51,6 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 **Tech Stack**: Python, scikit-learn, NLTK, pandas  
 [**→ View Repository**](https://github.com/sguschonka/vkbot_moderation_system)
 
-*(Рекомендую добавить сюда GIF с работой модератора)*
-
 ---
 
 ### 2. **Battle of Teams** 🎮
@@ -65,8 +63,6 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 
 **Tech Stack**: Python, Tkinter, Gymnasium, SLM-Lab, TensorFlow, PyTorch, Reinforcement Learning  
 [**→ View Repository**](https://github.com/sguschonka/BattleOfTeams-Python) *(in progress)*
-
-*(Очень рекомендую добавить GIF с геймплеем и работой ИИ здесь — это сильно повышает вовлечённость!)*
 
 ---
 
