@@ -86,7 +86,7 @@
 ## 📬 Связаться со мной
 
 - [![Email](https://img.shields.io/badge/Email-sklepikov2007%40yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:sklepikov2007@yandex.ru)
-- **Telegram**: [@твой_ник](https://t.me/san2anch)
+- **Telegram**: [@san2anch](https://t.me/san2anch)
 
 ---
 
