@@ -1,10 +1,9 @@
-# 👋 Привет, я Клепиков Александр!
+# 👋 Привет, я Клепиков Александр! Я же sguschonka
 
 **Студент ОмГУПС | Искусственный интеллект и киберфизические системы**  
-**Data Science • Machine Learning • Reinforcement Learning**
+**Data Science • Machine Learning • Reinforcement Learning • Deep Learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sguschonka&color=0e75b6&style=for-the-badge&label=Просмотры)  
-[![Email](https://img.shields.io/badge/Email-sklepikov2007%40yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:sklepikov2007@yandex.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@san2anch)
 
 ---
@@ -15,6 +14,8 @@
 Превращаю данные в работающие решения: от модерации токсичного контента в соцсетях до создания интеллектуальных агентов, которые учатся побеждать в стратегических играх.
 
 Сейчас фокусируюсь на создании **практических AI/ML-проектов**, которые решают реальные задачи и демонстрируют глубокое понимание алгоритмов.
+
+Обожаю практику и задачи на классическое ML. Один из немногих людей на **Земле**, который считает обучение ИИ интересным. Также был опыт в написании статей на тему ML.
 
 ---
 
@@ -30,7 +31,7 @@
 - **Reinforcement Learning**: Reinforce, Gymnasium, SLM-Lab
 - **Библиотеки**: scikit-learn, PyTorch/TensorFlow, pandas, NumPy, Matplotlib/Seaborn
 - **NLP**: предобработка текста, векторизация, классификация токсичности
-- **Дополнительно**: Tkinter, Git, Linux, Docker (в процессе)
+- **Дополнительно**: Tkinter, Git, Linux, Docker
 
 ---
 
@@ -39,25 +40,27 @@
 ### 1. **Модератор токсичности ВКонтакте** 🛡️
 **Автоматическая система модерации токсичных сообщений**
 
-- Разработал модель на основе **Logistic Regression**, показавшую высокую точность на реальных данных VK.
-- Выполнил полный цикл: сбор и разметка данных, предобработка текста (TF-IDF), обучение, оценка метрик (Precision, Recall, F1).
+- Разработал модель на основе **Logistic Regression**, показавшую высокую точность на реальных данных (датасет - "Toxic Comments with emojis").
+- Выполнил полный цикл: сбор и разметка данных (удобные 50/50), предобработка текста (TF-IDF), обучение, оценка метрик (Precision).
 - Проект демонстрирует навыки работы с реальными социальными данными и борьбу с токсичностью в интернете.
 
 **Технологии**: Python, scikit-learn, NLTK/Pandas  
-[**→ Перейти в репозиторий**](https://github.com/твой-username/toxic-moderator)
+[**→ Перейти в репозиторий**](https://github.com/sguschonka/vkbot_moderation_system)
 
 ---
 
 ### 2. **Битва Команд** 🎮
 **Стратегическая игра с ИИ-агентом на основе Reinforcement Learning**
 
-- Изначально курсовая работа на **C**.
-- Полностью переписал на **Python**, добавил красивый **графический интерфейс на Tkinter**.
-- Обучил ИИ-агента с помощью **SLM-Lab + Gymnasium** алгоритмом **REINFORCE**.
+- Изначально [курсовая работа](https://github.com/sguschonka/BattleOfTeams-C) на **C**, игра против бота подразумевала стратегию "добивания слабых", где ходил самый сильной боец
+команды бота против самого слабого бойца человеческой команды;
+- Полностью переписал на **Python**, добавил красивый **графический интерфейс на Tkinter**;
+- Обучил ИИ-агента с помощью **SLM-Lab + Gymnasium** алгоритмом **REINFORCE**;
 - Агент самостоятельно учится принимать стратегические решения и побеждать.
+- Примечательно: одну из победных стратегий ("добивание слабых") MLP нашел самостоятельно!
 
-**Технологии**: Python, Tkinter, Gymnasium, SLM-Lab, Reinforcement Learning  
-[**→ Перейти в репозиторий**](https://github.com/твой-username/battle-of-teams)
+**Технологии**: Python, pandas, numpy, scikit-learn, matplotlib, seaborn, Tensorflow, Pytorch, Reinforcement Learning  
+[**→ Перейти в репозиторий**](В процессе!)
 
 ---
 
@@ -65,7 +68,7 @@
 
 **Омский государственный университет путей сообщения (ОмГУПС)**  
 **Направление**: Искусственный интеллект и киберфизические системы  
-*202X — настоящее время*
+*2025 — настоящее время*
 
 ---
 
@@ -82,19 +85,18 @@
 
 ## 📬 Связаться со мной
 
-- **Email**: [твой@email.ru](mailto:твой@email.ru)
-- **Telegram**: [@твой_ник](https://t.me/твой_ник)
-- **VK**: [vk.com/твой_профиль](https://vk.com/твой_профиль)
+- [![Email](https://img.shields.io/badge/Email-sklepikov2007%40yandex.ru-red?style=for-the-badge&logo=gmail)](mailto:sklepikov2007@yandex.ru)
+- **Telegram**: [@твой_ник](https://t.me/san2anch)
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=твой-username&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sguschonka&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
 
-*«ИИ — это не просто модели, это возможность делать мир лучше.»*
+*«Машинное обучение – это наука о том, как научить машину самостоятельно решать задачи. Вот так все просто. Но дьявол кроется в деталях...»*
 
 ---
 
