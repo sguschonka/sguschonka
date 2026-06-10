@@ -100,7 +100,7 @@ Ready for challenging tasks where I can grow and deliver real value.
 
 ## 📬 Contact Me
 
-- **Email**: [sklepikov2007@yandex.ru](mailto:sklepikov2007@yandex.ru)
+- [![**Email**](https://img.shields.io/badge/Email-sklepikov2007%40yandex.ru-8B89CC?style=for-the-badge&logo=protonmail)](mailto:sklepikov2007@yandex.ru)
 - **Telegram**: [@san2anch](https://t.me/san2anch)
 
 ---
