@@ -68,7 +68,7 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 ### 2. **Battle of Teams** 🎮
 **Strategic Game with Reinforcement Learning AI Agent**
 
-- Originally a coursework project in **C**(https://github.com/sguschonka/BattleOfTeams-C).
+- Originally a [coursework project](https://github.com/sguschonka/BattleOfTeams-C) in **C**.
 - Fully rewritten in **Python** with a beautiful **Tkinter GUI**.
 - Trained an AI agent using **SLM-Lab + Gymnasium** with the **REINFORCE** algorithm.
 - The agent independently discovered strong strategies (e.g. "focus fire on weak units").
