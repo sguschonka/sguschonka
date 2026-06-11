@@ -49,23 +49,23 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 - Full ML pipeline: data collection, balanced labeling (50/50), TF-IDF preprocessing, training & evaluation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/300a99fe-7238-4fe1-a0d0-02831fc773e8" alt="Confusion Matrix" width="70%" />
+  <img src="https://github.com/user-attachments/assets/300a99fe-7238-4fe1-a0d0-02831fc773e8" alt="Confusion Matrix" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9ba6502-41d0-43c8-9361-2a6c98105978" alt="Funny Bot" width="70%" />
+  <img src="https://github.com/user-attachments/assets/d9ba6502-41d0-43c8-9361-2a6c98105978" alt="Funny Bot" width="45%" />
 </p>
 
 <p align="center">
-  <img alt="Send Message" src="https://github.com/user-attachments/assets/d5a0d169-c18f-4173-b62f-a4c58b156ffd" width="70%" />
+  <img alt="Send Message" src="https://github.com/user-attachments/assets/d5a0d169-c18f-4173-b62f-a4c58b156ffd" width="45%" />
 </p>
 
 <p align="center">
-  <img alt="Angry Bot" src="https://github.com/user-attachments/assets/66e1738a-1396-4bb2-a4c7-3983878d8fdd" width="70%" />
+  <img alt="Angry Bot" src="https://github.com/user-attachments/assets/66e1738a-1396-4bb2-a4c7-3983878d8fdd" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68cc3cf9-d360-431b-887a-ee2030396d47" alt="Toxicity Detection Result" width="70%" />
+  <img src="https://github.com/user-attachments/assets/68cc3cf9-d360-431b-887a-ee2030396d47" alt="Toxicity Detection Result" width="45%" />
 </p>
 
 **Example of work:**
