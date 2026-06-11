@@ -73,6 +73,8 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 - Trained an AI agent using **SLM-Lab + Gymnasium** with the **REINFORCE** algorithm.
 - The agent independently discovered strong strategies (e.g. "focus fire on weak units").
 
+<img width="1906" height="973" alt="BattleOfTeams" src="https://github.com/user-attachments/assets/dbf47a09-554a-4e4a-94bb-1aa0e701b688" />
+
 **Tech Stack**: Python, Tkinter, Gymnasium, SLM-Lab, TensorFlow, PyTorch, Reinforcement Learning  
 [**→ View Repository](https://github.com/sguschonka/Battle-of-Teams-RL-python-project) *(in progress)*
 ---
