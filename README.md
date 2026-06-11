@@ -74,8 +74,7 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 - The agent independently discovered strong strategies (e.g. "focus fire on weak units").
 
 **Tech Stack**: Python, Tkinter, Gymnasium, SLM-Lab, TensorFlow, PyTorch, Reinforcement Learning  
-[**→ View Repository**](https://github.com/sguschonka/BattleOfTeams-Python) *(in progress)*
-
+[**→ View Repository](https://github.com/sguschonka/Battle-of-Teams-RL-python-project) *(in progress)*
 ---
 
 ## 🎓 Education
