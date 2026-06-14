@@ -32,7 +32,7 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 
 ### **Machine Learning & Data Science**
 - **Classical ML**: Logistic Regression, Random Forest, Gradient Boosting
-- **Reinforcement Learning**: REINFORCE, Gymnasium, SLM-Lab
+- **Reinforcement Learning**: Gymnasium, SLM-Lab, Deep Learning (Tensorflow or PyTorch)
 - **Libraries**: scikit-learn, PyTorch, TensorFlow, pandas, NumPy, Matplotlib, Seaborn
 - **NLP**: Text preprocessing, TF-IDF, toxicity classification
 - **Other**: Tkinter, Git, Linux, Docker
