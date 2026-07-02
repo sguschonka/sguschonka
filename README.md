@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sguschonka&color=0e75b6&style=for-the-badge&label=Profile%20Views)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/san2anch)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/sguschonka)
 
 ---
 
@@ -117,7 +117,7 @@ Ready for challenging tasks where I can grow and deliver real value.
 - [![Email](https://img.shields.io/badge/Email-sklepikov2007%40yandex.ru-8B89CC?style=for-the-badge&logo=)](mailto:sklepikov2007@yandex.ru)
 ### OR
 - [![Email](https://img.shields.io/badge/Gmail-sklepikov2007%40gmail.com-8B89CC?style=for-the-badge&logo=gmail)](mailto:sklepikov2007@gmail.com)
-- [![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/san2anch)
+- [LinkedIn Profile](https://www.linkedin.com/in/sguschonka)
 
 ---
 
