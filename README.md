@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Reinforcement+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-**Student at OmGUPS | Artificial Intelligence and Cyber-Physical Systems**  
+**Student at OSTU (ОмГУПС)| Artificial Intelligence and Cyber-Physical Systems**  
 **Data Science • Machine Learning • Reinforcement Learning • Deep Learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sguschonka&color=0e75b6&style=for-the-badge&label=Profile%20Views)
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a student at **Omsk State University of Railways (OmGUPS)**, passionate about **Data Science** and **Machine Learning**.
+I'm a student at **Omsk State University of Railways (OSTU, ОмГУПС)**, passionate about **Data Science** and **Machine Learning**.
 
 I turn data into working solutions — from automatic toxic content moderation in social networks to training intelligent agents that learn to win in strategic games.
 
