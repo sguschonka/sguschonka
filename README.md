@@ -31,11 +31,11 @@ I love hands-on practice and classical ML problems. One of the few people who ge
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Machine Learning & Data Science**
-- **Classical ML**: Logistic Regression, Random Forest, Gradient Boosting
-- **Reinforcement Learning**: Gymnasium, SLM-Lab, Deep Learning (Tensorflow or PyTorch)
-- **Libraries**: scikit-learn, PyTorch, TensorFlow, pandas, NumPy, Matplotlib, Seaborn
+- **Classical ML**
+- **Reinforcement Learning**: Gymnasium, SLM-Lab, Deep Learning (Tensorflow)
+- **Libraries**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn
 - **NLP**: Text preprocessing, TF-IDF, toxicity classification
-- **Other**: Tkinter, Git, Linux, Docker
+- **Other**: Git, Linux, Docker, SQL
 
 ---
 
